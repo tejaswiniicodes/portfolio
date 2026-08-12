@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     name: "Mojito",
-    image: "src/assets/projectSS/Mojito.png",
+    image: "https://github.com/tejaswiniicodes/portfolio/blob/1f38796af8d2451d89e889f2478c216531102385/src/assets/projectSS/Mojito.png",
     link: "https://cocktaildev.vercel.app/"
   },
   {
