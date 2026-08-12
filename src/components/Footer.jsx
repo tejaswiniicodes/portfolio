@@ -109,7 +109,7 @@ const Footer = () => {
 
             {/* LinkedIn */}
             <a
-                href="https://www.linkedin.com/in/tejaswini-lekhraj-kadu-13a389388/"
+                href="www.linkedin.com/in/tejaswini-lekhraj-kadu-13a389388/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
